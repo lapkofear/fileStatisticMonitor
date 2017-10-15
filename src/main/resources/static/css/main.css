@@ -1,0 +1,10 @@
+.filesTable th, .filesTable td{
+	min-width: 10%;
+	text-align: center;
+	border: 1px solid bisque;
+	border-collapse: collapse;
+}
+.filesTable {
+	width: 100%;
+	border-spacing: 0;
+}
